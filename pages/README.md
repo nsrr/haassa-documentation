@@ -6,7 +6,7 @@ Learn more here: http://www.ncbi.nlm.nih.gov/pubmed/12938814
 
 When citing this dataset please use:
 
-> Redline, S., et al. "HAASA" National Sleep Research Resource. Web. http://sleepdata.org/datasets/haasa.
+> Redline, S., et al. "HAAS" National Sleep Research Resource. Web. http://sleepdata.org/datasets/haas.
 
 ## Publication Links
 
