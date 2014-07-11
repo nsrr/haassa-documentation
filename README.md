@@ -1,4 +1,4 @@
-haasa-documentation
+HAASA Documentation
 ===================
 
-HAASA documentation for sleepdata.org
+Version controlled repository for HAASA documentation on [sleepdata.org](http://sleepdata.org/datasets/haasa)
