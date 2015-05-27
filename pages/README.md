@@ -2,6 +2,9 @@
 
 Learn more here: http://www.ncbi.nlm.nih.gov/pubmed/12938814
 
+## Equipment
+- [Montage and Sampling Rate Information](https://sleepdata.org/datasets/haas/pages/equipment/montage-and-sampling-rate-information.md)
+
 ## Citation
 
 When citing this dataset please use:
