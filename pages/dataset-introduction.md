@@ -4,4 +4,4 @@ The [Honolulu-Asia Aging Study of Sleep Apnea dataset](:files_path:/datasets) po
 
 ## Structure of the dataset
 
-The dataset contains 718 records and 11 variables. Records can be linked to raw polysomnography data by using the `[HHP](https://www.sleepdata.org/datasets/haassa/variables/hhp)` subject identifier.
+The dataset contains 718 records and 11 variables. Records can be linked to raw polysomnography data by using the **[HHP](https://www.sleepdata.org/datasets/haassa/variables/hhp) subject identifier**.
