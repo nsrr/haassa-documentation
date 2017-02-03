@@ -8,11 +8,11 @@ Notes:
 
 ## Signal and annotation files
 
-[Raw polysomnography data](:files_path:/) are available for 717 subjects. Each recording has a signal file (.EDF) and two versions of the event scoring and epoch staging annotations (.XML).
+[Raw polysomnography data](:files_path:/polysomnography) are available for 717 subjects. Each recording has a signal file (.EDF) and two versions of the event scoring and epoch staging annotations (.XML).
 
-1. **[EDF](:files_path:/edfs)** - Signal files in the [European Data Format](http://www.edfplus.info/) exported from Compumedics Profusion.
-2. **[XML (Profusion)](:files_path:/annotations-events-profusion)** - Annotation files exported from Compumedics Profusion. ([Learn more...](https://github.com/nsrr/edf-editor-translator/wiki/Compumedics-Annotation-Format))
-3. **[XML (NSRR)](:files_path:/annotations-events-nsrr)** - Annotation files processed in the [EDF Editor and Translator](https://www.sleepdata.org/community/tools/12) tool.
+1. **[EDF](:files_path:/polysomnography/edfs)** - Signal files in the [European Data Format](http://www.edfplus.info/) exported from Compumedics Profusion.
+2. **[XML (Profusion)](:files_path:/polysomnography/annotations-events-profusion)** - Annotation files exported from Compumedics Profusion. ([Learn more...](https://github.com/nsrr/edf-editor-translator/wiki/Compumedics-Annotation-Format))
+3. **[XML (NSRR)](:files_path:/polysomnography/annotations-events-nsrr)** - Annotation files processed in the [EDF Editor and Translator](https://www.sleepdata.org/community/tools/12) tool.
 
 ## Known issues
 
