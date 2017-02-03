@@ -6,7 +6,7 @@ The Honolulu-Asia Aging Study of Sleep Apnea (HAASSA) was conducted to assess sl
 
 **[/datasets](:files_path:/datasets)** ([introduction](:pages_path:/dataset-introduction.md)) <br/> Core data from HAASSA.
 
-**[/polysomnography](:files_path:/edfs)** ([introduction](:pages_path:/polysomnography-introduction.md))<br/> Overnight polysomnography (PSG) data.
+**[/polysomnography](:files_path:/polysomnography)** ([introduction](:pages_path:/polysomnography-introduction.md))<br/> Overnight polysomnography (PSG) data.
 
 **This dataset has special access restrictions.** In order to access the polysomnography data and a limited dataset on the NSRR, a user must first obtain permission from the data owners at [Kuakini Medical Center](http://www.kuakini.org/wps/portal/). Additional variables and data may be requested and obtained directly from the data owners.
 
