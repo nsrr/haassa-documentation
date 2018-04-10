@@ -13,7 +13,7 @@ The Honolulu-Asia Aging Study of Sleep Apnea (HAASSA) was conducted to assess sl
 In order to access the HAASSA data, please follow these steps:
 
 1. E-mail kssresearch@kuakini.org and request access to HAASSA data on the NSRR
-2. Once approved by the data owners, [complete and submit a Data Access and Use Agreement](https://www.sleepdata.org/submissions/start?dataset=haassa)
+2. Once approved by the data owners, [complete and submit a Data Access and Use Agreement](https://sleepdata.org/data/requests/haassa/start)
 
 ## Equipment
 - [Montage and Sampling Rate Information](:pages_path:/montage-and-sampling-rate-information.md)
