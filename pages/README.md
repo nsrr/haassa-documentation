@@ -13,7 +13,7 @@ The Honolulu-Asia Aging Study of Sleep Apnea (HAASSA) was conducted to assess sl
 In order to access the HAASSA data, please follow these steps:
 
 1. E-mail kssresearch@kuakini.org and request access to HAASSA data on the NSRR
-2. Once approved by the data owners, [complete and submit a Data Access and Use Agreement](https://www.sleepdata.org/submissions/start?dataset=haassa)
+2. Once approved by the data owners, [complete and submit a Data Access and Use Agreement](https://sleepdata.org/data/requests/haassa/start)
 
 ## Equipment
 - [Montage and Sampling Rate Information](:pages_path:/montage-and-sampling-rate-information.md)
@@ -22,6 +22,6 @@ In order to access the HAASSA data, please follow these steps:
 
 When citing this dataset please use:
 
-1. [Dean, D. A., Goldberger, A. L., Mueller, R., Kim, M., Rueschman, M., Mobley, D., Sahoo, S. S., Jayapandian, C. P., Cui, L., Morrical, M. G., Surovec, S., Zhang, G. Q., & Redline, S. (2016). Scaling Up Scientific Discovery in Sleep Medicine: The National Sleep Research Resource. *Sleep, 5*, 1151–1164](http://www.ncbi.nlm.nih.gov/pubmed/27070134)
-
-2. [Foley, D. J., Masaki, K., White, L., Larkin, E. K., Monjan, A., & Redline, S. (2003). Sleep-disordered breathing and cognitive impairment in elderly Japanese-American men. *Sleep, 5*, 596–599.](http://www.ncbi.nlm.nih.gov/pubmed/12938814/)
+1. Dean DA 2nd, Goldberger AL, Mueller R, Kim M, Rueschman M, Mobley D, Sahoo SS, Jayapandian CP, Cui L, Morrical MG, Surovec S, Zhang GQ, Redline S. [**Scaling Up Scientific Discovery in Sleep Medicine: The National Sleep Research Resource.**](https://www.ncbi.nlm.nih.gov/pubmed/27070134) Sleep. 2016 May 1;39(5):1151-64. doi: 10.5665/sleep.5774. Review. PubMed PMID: 27070134; PubMed Central PMCID: PMC4835314.
+2. Zhang GQ, Cui L, Mueller R, Tao S, Kim M, Rueschman M, Mariani S, Mobley D, Redline S. [**The National Sleep Research Resource: towards a sleep data commons.**](https://www.ncbi.nlm.nih.gov/pubmed/29860441) J Am Med Inform Assoc. 2018 May 31. doi: 10.1093/jamia/ocy064. [Epub ahead of print] PubMed PMID: 29860441.
+3. Foley DJ, Masaki K, White L, Larkin EK, Monjan A, Redline S. [**Sleep-disordered breathing and cognitive impairment in elderly Japanese-American men.**](https://www.ncbi.nlm.nih.gov/pubmed/12938814) Sleep. 2003 Aug 1;26(5):596-9. PubMed PMID: 12938814.
