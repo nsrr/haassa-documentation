@@ -12,7 +12,7 @@ The settings below represent the standards set at the beginning of the project. 
 | Left EOG        | EOG(L)    | EOG(L)   | PG1     | 50                 | High Pass 0.15        | Gold cup electrode                    |
 | Right EOG       | EOG(R)    | EOG(R)   | PG1     | 50                 | High Pass 0.15        | Gold cup electrode                    |
 | Linked EEG      | EEG       | C4       | A1      | 125                | High Pass 0.15        | Gold cup electrode                    |
-| Thermistor      | Airflow   | Airflow  | -       | 10                 | High Pass 0.15        | ProTech thermistor M325               |
+| Airflow         | Airflow   | Airflow  | -       | 10                 | High Pass 0.15        | ProTech thermistor M325               |
 | Thorax          | Thor Res  | Thor Res | -       | 10                 | High Pass 0.15        | Respitrace Inductance Plethysmography |
 | Abdomen         | Abdo Res  | Abdo Res | -       | 10                 | High Pass 0.15        | Respitrace Inductance Plethysmography |
 | Position        | Position  | Position | -       | 1                  | -                     | Compumedics external sensor           |
