@@ -12,7 +12,7 @@ When using this dataset, please cite the following:
 
 Please include the following text in the Acknowledgements:
 
-> The Honolulu-Asia Aging Study of Sleep Apnea (HAASSA) was supported by contracts from the National Institute on Aging (NO1-AG-4-2149) and the National Heart, Lung, and Blood Institute (NO1-HC05102). The National Sleep Research Resource was supported by the National Heart, Lung, and Blood Institute (R24 HL114473, RFP 75N92019R002).
+> The Honolulu-Asia Aging Study of Sleep Apnea (HAASSA) was supported by contracts from the National Institute on Aging (NO1-AG-4-2149) and the National Heart, Lung, and Blood Institute (NO1-HC05102). The National Sleep Research Resource was supported by the National Heart, Lung, and Blood Institute (R24 HL114473, 75N92019R002).
 
 ## Data overview
 
